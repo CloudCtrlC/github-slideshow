@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-hiyo peoplez
+I change my slide comments back and forth
 Use left arrow to go back!
